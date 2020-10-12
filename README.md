@@ -1,4 +1,4 @@
-### Hi🖐 This is Wooseong Lee, thx for visiting my github.
+### Hi🖐 This is Wooseong, thx for visiting my github.
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LEE-WOO-SEONG)](https://github.com/anuraghazra/github-readme-stats)
 
